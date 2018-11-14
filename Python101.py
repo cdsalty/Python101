@@ -30,4 +30,20 @@
 # fourteen = int("10") + 4
 # print (fourteen);
 
-print "-" * 20
+# print "-" * 20
+
+# secret_number = 5;
+# if (secret_number == 3):
+#     print "Secret number is 3";
+# else:
+#     print "false"
+
+# game_on = True;
+# i = 0; 
+# while(game_on == True):
+#     i += 1
+#     if(i == 10):
+#         game_on = False
+#     else:
+#         print "Game On!!" #this will print 9 times unless
+
