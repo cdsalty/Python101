@@ -4,7 +4,7 @@
 for i in range(1, 10): #stop when it sees 10, not on the number 10. if you want ten, then you need to put 11.
     print i
 
- #A 3rd argument you can  hand, is called "step"
+#A 3rd argument you can  hand, is called "step"
 
 for i in range(1, 10, 2):
     print i
